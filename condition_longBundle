@@ -1,0 +1,17 @@
+Directory for saving data = data
+Simulation mode(0: matrix assembly, 1: measurement) = 0
+Duration of matrix formation(s) = 100
+Duration of measurement(s) = 0
+Period of recording Output and Progress(s) = 0.1
+============================== For matrix assembly =============================
+Width of domain(x, y, z in um) = 20, 20, 5
+Fiber concentration(in mg/ml or given) = 2
+Bundler density(R value or given) = 0.002
+Cross-linker density(R value or given) = 0
+Maximum length of filaments(in um) = 5
+Angle between fibers(in deg) = 0
+Limit of relative position of branching points(0-1) = 0.5, 1.0
+================================ For measurement ===============================
+Magnitude of strain(unitless) = 0.2
+Strain rate(1/s) = 0.2
+Period of recording stress and strain(s) = 0.1
